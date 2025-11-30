@@ -1,0 +1,41 @@
+
+Compilados y Build
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+Logs
+
+*.log
+
+IDEs - IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+
+IDEs - Eclipse
+
+.settings/
+.classpath
+.project
+.metadata/
+
+IDEs - VS Code
+
+.vscode/
+*.code-workspace
+
+Sistema Operativo
+
+.DS_Store
+Thumbs.db
+
+Maven wrapper 
+
+.mvn/
+mvnw
+mvnw.cmd
